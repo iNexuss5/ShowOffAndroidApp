@@ -32,4 +32,4 @@ To test the **ShowOff** app on your Android device:
    - Connect your Android device via USB and Run
   
      
-📸 Check out the [App Screenshots](/Documentation/screenshots.md)
+📸 Check out the [App Screenshots](/Documentation/screenshots/screenshots.md)
