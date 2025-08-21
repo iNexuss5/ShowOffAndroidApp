@@ -29,3 +29,4 @@ To test the **ShowOff** app on your Android device:
    - Select the **ShowOffAndroidApp** project folder  
    - Wait for **Gradle** to finish syncing  
    - Make sure your **Android SDK** is set to **API Level 34** (Android 15.0 or higher)
+   - Connect your Android device via USB and Run
