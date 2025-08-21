@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160993386019",
+    "project_id": "showoff-79a96",
+    "storage_bucket": "showoff-79a96.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160993386019:android:554c2aa176d6932b1f5b96",
+        "android_client_info": {
+          "package_name": "com.example.showoff"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "INSERT_YOUR_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

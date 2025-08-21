@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Tema principal da app, sem ActionBar -->
+    <style name="Theme.ShowOff" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <!-- Tema da SplashScreen, sem ActionBar e sem título -->
+    <style name="Theme.ShowOff.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#1b1e25</item>
+        <!-- Remover título da janela -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- Remover ActionBar -->
+        <item name="android:windowActionBar">false</item>
+        <item name="postSplashScreenTheme">@style/Theme.ShowOff</item>
+    </style>
+
+</resources>
